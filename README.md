@@ -14,3 +14,5 @@ Navbar
 ICONS
 +      https://icons.getbootstrap.com/icons/buildings/
 +      <i class="bi bi-buildings"></i>
+Button
++       https://getbootstrap.com/docs/5.3/components/buttons/
