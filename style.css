@@ -10,9 +10,19 @@ html {
 }
 
 body {
+	position: relative;
 	font-family: 'Roboto', sans-serif;
 	font-size: 1.6rem;
-	background-color: #333;
+	background-color: #fff;
+}
+/* atribute id - nav*/
+[id] {
+	scroll-margin-top: 91px;
+}
+@media (min-width: 992px) {
+	[id] {
+		scroll-margin-top: 83px;
+	}
 }
 .hero-shadow {
 	position: absolute;
@@ -55,4 +65,41 @@ body {
 }
 .home .welcome-text {
     font-size: 2.2rem;
+}
+.accordion-button:not(.collapsed) {
+	background-color: rgb(220, 220, 220);
+	color: #212529
+}
+/* section - about us */
+.aboutus-box h3 {
+	font-size: 2.4rem;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.aboutus-icon {
+	font-size: 4rem;
+}
+.accordion-button {
+	padding: 1em;
+	font-size: 1.8rem;
+}
+/* section - team */
+.team {
+	background-color: rgb(216, 214, 214);
+}
+.team .card-img-top {
+	height: 300px;
+	object-fit: cover;
+}
+.team .card-title {
+	font-size: 2rem;
+}
+/* section - contact */
+.contact h3 {
+	font-size: 2rem;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.contact .submit-btn {
+	font-size: 1.6rem;
 }
