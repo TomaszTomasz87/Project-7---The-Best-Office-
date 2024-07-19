@@ -20,3 +20,5 @@ ICONS
 +      <i class="bi bi-currency-dollar aboutus-icon"></i>
 Button
 +       https://getbootstrap.com/docs/5.3/components/buttons/
+Accordion
++       https://getbootstrap.com/docs/5.3/components/accordion/
