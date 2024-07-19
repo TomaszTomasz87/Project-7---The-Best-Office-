@@ -19,6 +19,8 @@ ICONS
 +      <i class="bi bi-hdd-stack-fill aboutus-icon"></i>
 +      <i class="bi bi-currency-dollar aboutus-icon"></i>
 +      <i class="bi bi-geo-alt orange-color"></i>
++      <i class="bi bi-at orange-color"></i>
++      <i class="bi bi-phone orange-color"></i>
 Button
 +       https://getbootstrap.com/docs/5.3/components/buttons/
 Accordion
