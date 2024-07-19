@@ -18,7 +18,12 @@ ICONS
 +      <i class="bi bi-people-fill aboutus-icon"></i>
 +      <i class="bi bi-hdd-stack-fill aboutus-icon"></i>
 +      <i class="bi bi-currency-dollar aboutus-icon"></i>
++      <i class="bi bi-geo-alt orange-color"></i>
 Button
 +       https://getbootstrap.com/docs/5.3/components/buttons/
 Accordion
 +       https://getbootstrap.com/docs/5.3/components/accordion/
+Card groups
++       https://getbootstrap.com/docs/5.3/components/card/#card-groups
+Form control
++      [https://getbootstrap.com/docs/5.3/forms/form-control/](https://getbootstrap.com/docs/5.3/forms/input-group/)
