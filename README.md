@@ -14,5 +14,6 @@ Navbar
 ICONS
 +      https://icons.getbootstrap.com/icons/buildings/
 +      <i class="bi bi-buildings"></i>
++      <i class="bi bi-check aboutus-icon"></i>
 Button
 +       https://getbootstrap.com/docs/5.3/components/buttons/
