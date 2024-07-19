@@ -15,5 +15,8 @@ ICONS
 +      https://icons.getbootstrap.com/icons/buildings/
 +      <i class="bi bi-buildings"></i>
 +      <i class="bi bi-check aboutus-icon"></i>
++      <i class="bi bi-people-fill aboutus-icon"></i>
++      <i class="bi bi-hdd-stack-fill aboutus-icon"></i>
++      <i class="bi bi-currency-dollar aboutus-icon"></i>
 Button
 +       https://getbootstrap.com/docs/5.3/components/buttons/
